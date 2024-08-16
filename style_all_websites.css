@@ -57,7 +57,8 @@ body {
 }
 
 .block img, .block1 img {
-    width: 200px;
+    width: 350px;
+/*     width: 200px; */
     height: auto;
     margin-right: 20px;
     border-radius: 5px;
@@ -97,7 +98,8 @@ body {
 }
 
 .section_obr img {
-    width: 200px;
+    width: 350px;
+/*     width: 200px; */
     height: auto;
     margin-left: 20px;
 }
@@ -156,14 +158,16 @@ body {
 }
 
 .section img {
-    width: 200px;
+    width: 350px;
+/*     width: 200px; */
     height: auto;
     margin-left: 20px;
     border-radius: 5px;
 }
 
 .section_2 img {
-    width: 150px;
+    width: 280px;
+/*     width: 200px; */
     height: auto;
     margin-left: 20px;
     border-radius: 5px;
@@ -182,7 +186,8 @@ body {
 }
 
 .section_detstvo img {
-    width: 200px;
+    width: 350px;
+/*     width: 200px; */
     height: auto;
     margin-left: 20px;
     border-radius: 5px;
