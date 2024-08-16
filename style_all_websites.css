@@ -98,8 +98,7 @@ body {
 }
 
 .section_obr img {
-    width: 350px;
-/*     width: 200px; */
+    width: 220px; 
     height: auto;
     margin-left: 20px;
 }
