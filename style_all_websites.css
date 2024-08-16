@@ -85,10 +85,18 @@ body {
     transform: scale(1.03);
 }
 
-.content {
+/* .content {
     padding-top: 60px;
     margin: 20px;
     line-height: 1.6;
+} */
+
+
+.content {
+    padding-top: 60px;
+    margin: 20px auto; /* Центрирование контента */
+    line-height: 1.6;
+    max-width: 1000px; /* Ограничиваем максимальную ширину контента */
 }
 
 .section_obr {
